@@ -1,6 +1,7 @@
 # Hi, I'm Victor 👋
 
-**Senior Software Engineer | Tech Lead**  
+**Senior Software Engineer  Tech Lead  Distributed Systems & Financial Platforms.**
+
 Building secure, scalable, and production-ready systems with over a decade of experience in banking and finance.
 
 ---
@@ -23,16 +24,19 @@ Building secure, scalable, and production-ready systems with over a decade of ex
 
 ---
 ## 📢 Note to the Community
+
 Throughout my career, I’ve contributed to more than 100 projects across banking, finance, and technology.  
 Most of these belong to the companies I’ve worked for, so I can’t share their code here.  
 
-As I continue, I’ll be uploading personal projects, code snippets, and tools on topics I find interesting — from automation and CI/CD to AI‑assisted programming and beyond.  
+As I continue, I’ll be uploading personal projects, code snippets, and tools on topics I find interesting — from automation and CI/CD to AI‑assisted programming and beyond. 
+
 Stay tuned for updates!
+
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/xxxxxx)  
-- [GitHub](https://github.com/xxxxxx)  
+- [LinkedIn](https://www.linkedin.com/in/vimolinerom)  
+- [GitHub](https://github.com/victor-molinero)  
 
 ---
 
